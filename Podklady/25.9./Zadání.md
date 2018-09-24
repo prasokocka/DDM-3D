@@ -1,4 +1,4 @@
-Kdo nestihl klíčenku dodělat minulou hodinu/doma, nejdříve dokončí model klíčenky z předhozí hodiny.
+Kdo chce přepracovat klíčenku nebo ji doma či minule nestihl dodělat, tak ať.
 
 Klávesy SHIFT CTRL
 objekt uložte v barvě jakou byste si přáli vytiskteny
