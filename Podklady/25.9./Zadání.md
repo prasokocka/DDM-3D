@@ -14,7 +14,7 @@ BLUDIŠTĚ
 ======
 Následující dvě hodiny budeme modelovat BLUDIŠTĚ. Jde to stolní hru, kde se hráč pomocí naklánení bludiště snaží dostat kuličku (také vytištěnou) z předem určeného místa (vyznačeného ďůlkem) na druhé vyznaené místo. Podívejte se do složky 25.9. na soubor [bludiste.svg](https://github.com/prasokocka/DDM-3D/blob/master/Podklady/25.9./Bludiste.stl), jak může výsledný model vypadat.
 
-###Rozměry:
+### Rozměry:
 Celkové: 90mm x 90mm x 9.5mm
 Tloušťka podložky: 2.5mm
 Výška stěn: 7mm
