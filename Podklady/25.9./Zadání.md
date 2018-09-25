@@ -23,4 +23,10 @@ Následující dvě hodiny budeme modelovat BLUDIŠTĚ. Jde to stolní hru, kde 
 
 Je více možností jak modelovat, můžete například na podložku skládat různě dlouhé obdélníčky představující stěny nebo "vyřezávat" chodbičky pomocí děr. Nejsou to však jediné dva způsoby jak na to.
 
-Pokud jste hotovy, vyberte všechny části bludište a udělejte z nich jednu skupinu, zkontrolujte si prosím celkovou velikost modelu (90mm x 90mm x 9.5mm) a že se model pro tisk jmenuje Bludiště. Poté ještě změnte barvu modelu podle toho, z jaká by se vám líbila. Tisknout se bude dostupných strun (filamentu) a jakou barvu bude chtít většina.
+### Pokud jste hotovy:
+  1. vyberte prosím všechny části Bludiště a udělejte z nich jednu skupinu (pomocí klávesy `CTRL + G` či tlačítka v pravé části horní lišty)
+  2. zkontrolujte si prosím celkovou velikost modelu (90mm x 90mm x 9.5mm) 
+  3. zkontolujte, že se hotový model jmenuje Bludiště
+  4. změnte barvu modelu podle toho, jaká by se vám líbila. Tisknout se bude podle dostupných strun (filamentu) a jakou barvu bude chtít většina.
+  
+Pokud je ještě čas, můžete si zkoušet modelovat další věci, či přemýšlet nad svým velikým projektem, který budeme tvořit a tisknout ke konci pololetí.
