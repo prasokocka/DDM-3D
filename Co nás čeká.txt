@@ -5,17 +5,15 @@ Tiskne se
 18.9.   Seznámení s učebnou, přihlášení, princip tisku + modelováním 
         Klíčenka
         Rybička
-25.9.   Nastavení sliceru
-        Dodělávání klíčenek, Háček
-        Klíčenky
+25.9.   Nastavení sliceru, Druhy materiálů
+        Dodělávání klíčenek, Bludiště
 2.10.   TOP chyby při tisku
-        | jeden tisk kostičky
-        Klíčenky + Háčky
-9.10.   Podpěry
+        Viz minulé cvičení
+9.10.   Oprava modelů, mosty, podpěry
+16.10.  
+        
+        Mosty
 
-Mosty
-Druhy materiálů
 Vlastní projekt
-Oprava modelů
 Úprav po tisku (lepení + broušení)
 Průběžně projekty pro DDM
