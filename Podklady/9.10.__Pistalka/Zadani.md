@@ -23,7 +23,7 @@ Zde najdete, jak může vypadat [Pistalka.svg](https://github.com/prasokocka/DDM
   * Celkové: 35mm x 20mm x 20mm - nejdelší je ve směru "foukátka"
   * Zbytek je na vás
 
-  ![whistle_que](https://github.com/prasokocka/DDM-3D/blob/master/bin/images/whistle_que.png)
+  ![whistle_que](https://github.com/prasokocka/DDM-3D/blob/master/bin/images/whistle_quee.png)
   ![whistle_top](https://github.com/prasokocka/DDM-3D/blob/master/bin/images/whistle_transparent_top.png)
   
 Model nemusí být tak strohý, jako ukázka. Můžete přidat výzdobu, udělat ji oblejší, případně zkusit jiný tvar píšťalky. Pokud se
