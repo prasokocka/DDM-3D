@@ -5,10 +5,10 @@ Chytré klávesy co se při modelování hodí:
 ### Vidím skrz!!
   Vyberte model nebo jen krychli a zmáčkněte `T`, model se stane transparentní (průhledný), což vám u píšťaky pomůže :)
   ![whistle.png](https://github.com/prasokocka/DDM-3D/blob/master/bin/images/whistle.png)
-  ![whistle_t.svg](https://github.com/prasokocka/DDM-3D/blob/master/bin/images/whistle_transparent.png)
+  ![whistle_t.png](https://github.com/prasokocka/DDM-3D/blob/master/bin/images/whistle_transparent.png)
 ### Nemůžu ho zničit
   Pokud mám objekt tam kde má být a nechci ho omylem zmenšit či posunout, mohu ho uzamknout pomocí `CTRL+L` nebo kliknutím na zámeček.
-  ![whistle_lock.svg](https://github.com/prasokocka/DDM-3D/blob/master/bin/images/whistle_lock.png)
+  ![lock.png](https://github.com/prasokocka/DDM-3D/blob/master/bin/images/whistle_lock.png)
   
 Píšťalka
 ======
