@@ -28,6 +28,10 @@ Zde najdete, jak může vypadat [Pistalka.svg](https://github.com/prasokocka/DDM
   
 Model nemusí být tak strohý, jako ukázka. Můžete přidat výzdobu, udělat ji oblejší, případně zkusit jiný tvar píšťalky. Pokud se
  rozhodnete vložit dovnitř kuličku, nezapomeňtě ji umístit tak aby se v pořádku vytiskla a zároveň šla pomocí dloubátka odlepit.
+ 
+### Dodělávka aby pískala
+Pokud chcete aby pískala, je nutné přidat další dvě části.
+![whistle_que](https://github.com/prasokocka/DDM-3D/blob/master/bin/images/whistle_fast_patch.png)
 
 ### Když jsem domodeloval:
   1. vyberte prosím všechny části Píšťalky a udělejte z nich jednu skupinu (pomocí klávesy `CTRL + G` či tlačítka v pravé části horní lišty)
