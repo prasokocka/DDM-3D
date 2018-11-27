@@ -7,6 +7,9 @@ Pokud vás nenapadá, do jakého projektu (skupinového či osobního) byste se 
   5. Stolní hra
   6. Zavírátka na sáčky
   7. Popisky na skříně / obrázek (laboratorní sklo, chemikálie)
-  8. Abecada na obtiskávání do keramiky (1.5 cm)
-  9. TĚŽKÉ model lebky zvířete dle výběru
+  8. TĚŽKÉ model lebky zvířete dle výběru
+  9. ČENDA Oddělovač na lego
+  10. Stojánek na zkumavky
+  
+  
   
